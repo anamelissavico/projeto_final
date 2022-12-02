@@ -1,0 +1,40 @@
+
+#header {
+    background-color: rgb(57, 199, 161);
+    
+}
+
+#footer{
+        background-color: rgb(57, 199, 161);
+}
+
+#headerTitulo {
+ color: white;
+}
+
+#navMenu {
+    background-color: rgb(68, 64, 64);
+    
+}
+
+#foto{
+    width: 350px !important;
+    text-align: center;
+    border-radius: 60%;
+}
+
+#formContato{
+    border: solid 1px black;
+}
+
+p {
+    color: white;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+}
